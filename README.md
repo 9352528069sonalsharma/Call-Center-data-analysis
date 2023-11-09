@@ -2,7 +2,7 @@
 # [Project 1: Call Center Analysis Power BI Dashboard]
 
  ## Project Overview
-Call Center Dashboard Analysis is a data analysis project aimed at providing insights into the Call Center performance metrics, guest satisfaction levels, and operational efficiencies. The project leverages Python data analysis libraries, interactive visualization tools, and a user-friendly dashboard interface to facilitate data-driven decision-making within the Call Center.
+Call Center Dashboard Analysis is a data analysis project aimed at providing insights into the Call Center performance, Calls coming ,calls rejections , calls efficiencies. The project leverages Excel data analysis, interactive visualization tools, and a user-friendly dashboard interface to facilitate data-driven decision-making within the Call Center.
 
  ## Data Source
  Call Center Data: The Primary dataset used for this analysis is the "Call Center datasets.zip containing detailed information get from .
