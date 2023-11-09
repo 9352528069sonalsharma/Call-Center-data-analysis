@@ -27,8 +27,8 @@ Total number of agents?
 
 ## Features
 - Interactive dashboards for visualizing key performance indicators (KPIs).
-- Data analysis scripts for extracting, cleaning, and processing hotel-related data.
-- Customizable visualizations for different operational aspects, including occupancy rates, revenue trends, and customer feedback analysis.
+- Data analysis scripts for extracting, cleaning, and processing call center-related data.
+- Customizable visualizations for different Total calls, including percentage of rejected calls, total number of agents and customer feedback analysis.
   
 ### Results/Findings 
 The analysis results are summarized as follows:
